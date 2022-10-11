@@ -1,0 +1,66 @@
+body {
+  background-color: lightblue;
+  background-image: url("https://images.prismic.io/coppa/2f1af85f-7ec6-489e-9651-ba43b78c15be_ADS_2871-2.jpg?");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1 {
+  color: black;
+  text-align: center;
+}
+
+h2 {
+  color: black;
+  text-align: center;
+}
+
+h3 {
+  color: black;
+  text-align: center;
+}
+
+p {
+  color: black;
+  text-align: center;
+  font-size: 20px;
+}
+
+a:link {
+  color: yellos;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: red;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+table {
+  width: 100%;
+  border: 2px solid;
+}
+
+div {
+  
+  display: inline-block;
+  background-color: lightblue;
+  border: 10px solid black;
+  padding: 20px;
+  margin: 20px;
+
+}
