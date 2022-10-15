@@ -1,0 +1,31 @@
+<Html>
+
+&lt;body>
+
+& Lt; style>
+
+#wrapper {width 800px; margin: 0 auto}
+
+& Lt; / style>
+
+& Lt; div id = "wrapper">
+
+& Lt; / div>
+
+& Lt; / body>
+
+</ Html>
+
+<div id = "wrapper">:
+
+<Div class = "-kolonnen>
+&lt;p>Sample Text&lt;/p>
+
+</ Div>
+
+<Div class = "-kolonnen>
+
+&lt;p>More Sample Text&lt;/p>
+
+</ Div>
+.column {width: 400px; padding-right: 50 piksler; float: left}
