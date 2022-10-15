@@ -1,31 +1,31 @@
 <Html>
 
-&lt;body>
+<body>
 
-& Lt; style>
+<style>
 
 #wrapper {width 800px; margin: 0 auto}
 
-& Lt; / style>
+</style>
 
-& Lt; div id = "wrapper">
+<div id = "wrapper">
 
-& Lt; / div>
+</div>
 
-& Lt; / body>
+</body>
 
-</ Html>
+</Html>
 
 <div id = "wrapper">:
 
 <Div class = "-kolonnen>
 &lt;p>Sample Text&lt;/p>
 
-</ Div>
+</Div>
 
 <Div class = "-kolonnen>
 
-&lt;p>More Sample Text&lt;/p>
+<p>More Sample Text</p>
 
 </ Div>
 
