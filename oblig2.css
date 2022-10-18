@@ -14,14 +14,14 @@
   float: left;
   width: 50%;
   padding: 10px;
-
+text-align: justify;
   }
 
   .column3 {
     float: left;
     width: 16%;
     padding: 10px;
-
+text-align: justify;
     background-color:#FFDAB9;
 
 }
