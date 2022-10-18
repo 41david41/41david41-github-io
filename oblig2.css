@@ -8,6 +8,8 @@
     width: 16%;
     padding: 10px;
     text-align: justify;
+     margin-right: 10px;
+    margin-left: 10px;
 }
 
 .column2 {
@@ -15,6 +17,8 @@
   width: 50%;
   padding: 10px;
 text-align: justify;
+    margin-right: 10px;
+    margin-left: 10px;
   }
 
   .column3 {
@@ -34,13 +38,13 @@ text-align: justify;
 
 .border-right {
     border-right: 1px solid black;
-    margin-right: 10px;
+   
 
 }
 
 .border-left {
     border-left: 1px solid black;
-    margin-left: 10px;
+    
 
 }
 
