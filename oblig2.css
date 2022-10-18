@@ -7,7 +7,7 @@
     float: left;
     width: 16%;
     padding: 10px;
-    text-align: justify;
+    text-align: fill;
 
 }
 
@@ -15,7 +15,7 @@
   float: left;
   width: 50%;
   padding: 10px;
-text-align: justify;
+text-align: fill;
     
   }
 
@@ -23,7 +23,7 @@ text-align: justify;
     float: left;
     width: 16%;
     padding: 10px;
-text-align: justify;
+text-align: fill;
     background-color:#FFDAB9;
 
 }
